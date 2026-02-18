@@ -1,7 +1,6 @@
 # SauceDemo Automation Test
 
-## Menjalankan Test
+## How to Run All
 robot test/
-
-## Contoh Menjalankan Test Spesifik
-robot test/login_tests.robot
+## How to Run Specific
+robot tests/login_tests.robot
